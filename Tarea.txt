@@ -1,0 +1,14 @@
+A. Agregar un require() 
+    1. para que sólo él creador pueda retirar el dinero
+    2. Para que sólo él pueda enviar dinero
+
+B. Verificar que la cantidad enviada es menor a la cantidad total de fondos disponibles.
+
+C. Se almacenarán 4 direcciones, y dependiendo de la dirección se envíe un porcentaje unicamente.
+
+D. Sí una de las cuentas ya cobró, no puede volver a cobrar.
+
+E. diferencia entre internal y private en modificadores (Modifier)
+
+F. Qué es menos costoso, utilizar require() o un if()
+    f.1 ¿Qué es mejor y por qué?
